@@ -104,9 +104,7 @@ cosmic-wisdom/
 ├── SKILL.md          # The skill file (required)
 ├── README.md         # This file
 ├── LICENSE           # Do whatever you want license
-└── .github/
-    └── workflows/
-        └── bless.yml # Auto-bless on push (very important)
+
 ```
 
 ---
